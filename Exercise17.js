@@ -1,5 +1,4 @@
 //Write a JavaScript program to replace every character in a given string with the character following it in the alphabet.
-function string_reverse(str) 
 function LetterChanges(text) {
 var s = text.split('');
 for (var i = 0; i < s.length; i++) {
